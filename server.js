@@ -21,7 +21,7 @@ const FILE_PATH = process.env.FILE_PATH || '.tmp';
 const SUB_PATH = process.env.SUB_PATH || 'sub';       
 
 const PORT = 8081; 
-const UUID = process.env.UUID || '1f37ac4f-fdd0-49df-9406-1eda70a1d512'; 
+const UUID = process.env.UUID || '7e8fa1ce-47ef-4445-bcad-7470c63fbda1'; 
 const ARGO_PORT = 8001;            
 const CFPORT = process.env.CFPORT || 443;                  
 const NAME = process.env.NAME || 'ddfathu';                        
