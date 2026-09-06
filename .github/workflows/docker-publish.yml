@@ -23,4 +23,4 @@ jobs:
           context: .
           push: true
           # Pastikan username-docker-kamu diganti pake username asli Docker Hub-mu ya!
-          tags: zx-vm/shku:latest
+          tags: zxvm1/shku:latest
